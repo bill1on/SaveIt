@@ -1,2 +1,2 @@
-# SaveIt
-A budget saving application
+# Save It!
+A budget saving application.
