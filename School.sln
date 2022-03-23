@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School", "School\School.csproj", "{90F96B6F-E962-4C2E-9B94-0B2C28A5E536}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Save It", "Save It\Save It.csproj", "{90F96B6F-E962-4C2E-9B94-0B2C28A5E536}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
